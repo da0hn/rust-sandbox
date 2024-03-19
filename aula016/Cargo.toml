@@ -1,6 +1,5 @@
-workspace = { members = ["aula008", "aula009", "aula011", "aula012", "aula014", "aula016", "aula027", "aula028", "aula029"] }
 [package]
-name = "learning-rust"
+name = "aula016"
 version = "0.1.0"
 edition = "2021"
 
