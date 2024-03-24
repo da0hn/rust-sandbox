@@ -1,4 +1,4 @@
-workspace = { members = ["aula008", "aula009", "aula011", "aula012", "aula014", "aula016", "aula027", "aula028", "aula029", "aula030", "aula031", "aula032", "aula033", "aula035", "aula037", "aula039", "aula041"] }
+workspace = { members = ["aula008", "aula009", "aula011", "aula012", "aula014", "aula016", "aula027", "aula028", "aula029", "aula030", "aula031", "aula032", "aula033", "aula035", "aula037", "aula039", "aula041", "aula051", "aula061", "aula067", "aula069", "aula071"] }
 [package]
 name = "learning-rust"
 version = "0.1.0"
